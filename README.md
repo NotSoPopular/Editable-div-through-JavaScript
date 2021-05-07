@@ -1,1 +1,1 @@
-# Editable-div-through-JavaScript
+Through this Java Script Code, you can click on the box that appears, type some text in it, save it, again reload the page, but the content which you typed will remain safe in the box, because this code works through local storage.
